@@ -1,3 +1,5 @@
 <resources>
 	<string name="app_name">ScienceCodeDemo</string>
+	<string name="company_name">ACME Inc</string>
+	<string name="positive_button">OK</string>
 </resources>
